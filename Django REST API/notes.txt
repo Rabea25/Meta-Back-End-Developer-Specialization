@@ -1,0 +1,12 @@
+superuser username: admin
+superuser password: 123
+
+superuser token: 32ec92f96cf338eab72a40fb2fc6914250321e72
+
+customers: (username:password:token)
+user1 : xdxdPW12 : b8b84cdbe35a52c316d7b10f82a5a1df8a7fef13
+user2 : xdxdPW12 : 484296b3291e36404cdda83f9c5541002845c357
+delivery1: xdxdPW12 373912cdd016b47f9ec7b589d27e19eb63d585ba
+delivery2: xdxdPW12 417cd9191f5dd65888250c087cae3caed31160b4
+manager1: xdxdPW12 : c7348125f3e1d5c32aa9de5043937272e8cdb2a6
+manager2: xdxdPW12 : 7b1821935bc2416f6879df9f9d3785a964436d17
